@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f07839e6-acdc-4acb-b179-1c7d36cfa51e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/context/LanguageContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/LanguageContext.js" afterDir="false" />
-    </list>
+    <list default="true" id="f07839e6-acdc-4acb-b179-1c7d36cfa51e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,35 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LanguageContext.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LanguageContext.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/context/LanguageContext.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Field.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Field.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Field.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Button.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Button.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -106,9 +89,9 @@
         <option value="$PROJECT_DIR$/src/components/Field.js" />
         <option value="$PROJECT_DIR$/src/context/ColorContext.js" />
         <option value="$PROJECT_DIR$/src/components/Button.js" />
-        <option value="$PROJECT_DIR$/src/components/LanguageSelector.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/context/LanguageContext.js" />
+        <option value="$PROJECT_DIR$/src/components/LanguageSelector.js" />
       </list>
     </option>
   </component>
@@ -202,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1615294184887</updated>
       <workItem from="1615294186364" duration="1959000" />
-      <workItem from="1615296892640" duration="13816000" />
+      <workItem from="1615296892640" duration="14125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15775000" />
+    <option name="totallyTimeSpent" value="16084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1495" y="110" width="1066" height="1024" extended-state="0" />
@@ -277,16 +260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Field.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Button.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -301,13 +274,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/LanguageSelector.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -331,10 +297,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LanguageSelector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/context/LanguageContext.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Field.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
